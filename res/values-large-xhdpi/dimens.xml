@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ActividadButtonText">35.0sp</dimen>
+    <dimen name="ActividadFontText">45.0sp</dimen>
+    <dimen name="ActividadTitleFontText">60.0sp</dimen>
+    <dimen name="BotonJuegoDimen">260.0dip</dimen>
+    <dimen name="BotonJuegoMargin">4.0dip</dimen>
+    <dimen name="BotonJuegoText">40.0sp</dimen>
+    <dimen name="ConfigButtonDimen">120.0dip</dimen>
+    <dimen name="ConfigCheckBox">45.0sp</dimen>
+    <dimen name="ConfigFontText">60.0sp</dimen>
+    <dimen name="GamesTitle">100.0sp</dimen>
+    <dimen name="GamesTitleGame">90.0sp</dimen>
+    <dimen name="MainTitle">75.0sp</dimen>
+    <dimen name="ReglasText">30.0sp</dimen>
+    <dimen name="ReglasTitle">80.0sp</dimen>
+    <dimen name="SesionButtonText">30.0sp</dimen>
+    <dimen name="SesionFontText">25.0sp</dimen>
+    <dimen name="SesionTitleFontText">55.0sp</dimen>
+    <dimen name="SettingsCheckBox">35.0sp</dimen>
+    <dimen name="SettingsFontText">40.0sp</dimen>
+    <dimen name="Table_font_size_medium">40.0sp</dimen>
+    <dimen name="Table_font_size_small">30.0sp</dimen>
+    <dimen name="Table_font_size_verysmall">30.0sp</dimen>
+    <dimen name="WelcomeDimen">30.0sp</dimen>
+    <dimen name="amblyoMobileTitle">90.0sp</dimen>
+    <dimen name="buttonloginheight">60.0dip</dimen>
+    <dimen name="buttonloginwidth">450.0dip</dimen>
+    <dimen name="margin1">12.0dip</dimen>
+    <dimen name="margin2">24.0dip</dimen>
+    <dimen name="margin3">48.0dip</dimen>
+    <dimen name="padding0">12.0dip</dimen>
+    <dimen name="padding00">6.0dip</dimen>
+    <dimen name="padding1">24.0dip</dimen>
+    <dimen name="padding2">48.0dip</dimen>
+</resources>

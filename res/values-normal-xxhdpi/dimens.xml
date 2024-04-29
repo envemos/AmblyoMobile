@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ActividadButtonText">30.0sp</dimen>
+    <dimen name="ActividadFontText">35.0sp</dimen>
+    <dimen name="ActividadTitleFontText">45.0sp</dimen>
+    <dimen name="BotonJuegoDimen">150.0dip</dimen>
+    <dimen name="BotonJuegoText">30.0sp</dimen>
+    <dimen name="ButtonPlayDimen">60.0sp</dimen>
+    <dimen name="ConfigCheckBox">30.0sp</dimen>
+    <dimen name="ConfigFontText">40.0sp</dimen>
+    <dimen name="GamesTitle">60.0sp</dimen>
+    <dimen name="MainTitle">55.0sp</dimen>
+    <dimen name="ReglasTitle">60.0sp</dimen>
+    <dimen name="SesionButtonText">25.0sp</dimen>
+    <dimen name="SesionFontText">20.0sp</dimen>
+    <dimen name="SesionTitleFontText">50.0sp</dimen>
+    <dimen name="SettingsCheckBox">25.0sp</dimen>
+    <dimen name="WelcomeDimen">20.0sp</dimen>
+    <dimen name="amblyoMobileTitle">60.0sp</dimen>
+    <dimen name="buttonloginwidth">300.0dip</dimen>
+</resources>

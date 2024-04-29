@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/grisClaro" android:padding="@dimen/padding1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/SettingsFontText" android:textColor="@color/grisOscuro" android:id="@id/EmailListTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin2" android:text="@string/_privacidad" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:textSize="@dimen/text_1" android:orientation="vertical" android:id="@id/tv_privacy_emaillist" android:padding="@dimen/padding1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/margin1" android:layout_marginBottom="@dimen/margin1">
+                <TextView android:textSize="@dimen/text_1" android:textColor="@color/grisOscuro" android:id="@id/tv_emailList1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/emailist1" />
+                <androidx.appcompat.widget.SwitchCompat android:gravity="center_vertical" android:id="@id/switch_emailList1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:thumbTint="@color/Negro" android:trackTint="@color/Blanco" />
+            </RelativeLayout>
+            <TextView android:textSize="@dimen/text_1" android:textColor="@color/grisOscuro" android:id="@id/tv_decription_emailList1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin2" android:text="@string/emailist2" android:textAlignment="center" />
+            <View android:background="@color/Negro" android:layout_width="fill_parent" android:layout_height="0.5dip" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/margin1" android:layout_marginBottom="@dimen/margin1">
+                <TextView android:textSize="@dimen/text_1" android:textColor="@color/grisOscuro" android:id="@id/tv_emailList2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0dip" android:text="@string/emailist3" android:layout_marginEnd="1.0dip" />
+                <androidx.appcompat.widget.SwitchCompat android:gravity="center_vertical" android:id="@id/switch_emailList2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:thumbTint="@color/Negro" android:trackTint="@color/Blanco" />
+            </RelativeLayout>
+            <TextView android:textSize="@dimen/text_1" android:textColor="@color/grisOscuro" android:id="@id/tv_decription_emailList2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin2" android:text="@string/emailist4" android:textAlignment="center" />
+            <View android:background="@color/Negro" android:layout_width="fill_parent" android:layout_height="0.5dip" />
+            <ImageView android:layout_gravity="center" android:id="@id/buttonActivityEmailList" android:background="@drawable/boton_redondeado" android:padding="@dimen/padding1" android:paddingBottom="@dimen/padding2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin2" android:layout_marginBottom="@dimen/margin3" android:src="@drawable/go_left" android:onClick="go_back" android:contentDescription="@string/volver_atr_s" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

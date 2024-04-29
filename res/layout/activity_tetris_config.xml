@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/grisClaro" android:padding="@dimen/padding1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="@dimen/margin1" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/ConfigFontText" android:textColor="@color/Negro" android:layout_gravity="center" android:id="@id/textViewTetrisConfigNivel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin1" android:text="@string/nivel" android:textAlignment="center" />
+            <SeekBar android:id="@id/seekBarTetrisConfigVelocidad" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin1" android:max="10" android:progress="3" android:progressDrawable="@drawable/volume_control" android:thumbTint="@color/Blanco" style="@android:style/Widget.Material.SeekBar.Discrete" />
+            <CheckBox android:textSize="@dimen/SettingsCheckBox" android:layout_gravity="center" android:id="@id/checkBoxTetrisConfigVelocidad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin1" android:text="@string/autoincrementar_velocidad" android:onClick="onCheckboxClicked" android:textAlignment="center" />
+            <ImageView android:layout_gravity="center" android:id="@id/imageViewTetrisConfigGuardar" android:background="@drawable/boton_redondeado" android:padding="@dimen/padding1" android:layout_width="@dimen/ConfigButtonDimen" android:layout_height="@dimen/ConfigButtonDimen" android:layout_margin="@dimen/margin1" android:src="@drawable/save_balck" android:text="@string/guardar_cambios" android:onClick="finish" android:contentDescription="@string/guardar_cambios" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

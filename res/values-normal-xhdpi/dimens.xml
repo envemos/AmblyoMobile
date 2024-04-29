@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ActividadButtonText">20.0sp</dimen>
+    <dimen name="ActividadFontText">25.0sp</dimen>
+    <dimen name="ActividadTitleFontText">35.0sp</dimen>
+    <dimen name="BotonJuegoDimen">140.0dip</dimen>
+    <dimen name="ConfigCheckBox">25.0sp</dimen>
+    <dimen name="ConfigFontText">30.0sp</dimen>
+    <dimen name="SesionButtonText">20.0sp</dimen>
+    <dimen name="SesionFontText">18.0sp</dimen>
+    <dimen name="SesionTitleFontText">45.0sp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/Blanco" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <pl.droidsonroids.gif.GifImageButton android:layout_gravity="center" android:id="@id/dialog_purchase" android:background="@color/Blanco" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gif1" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@string/buy" />
+    <ImageButton android:layout_gravity="center" android:id="@id/dialog_video" android:background="@color/Blanco" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/video" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@string/play_demo" />
+</LinearLayout>

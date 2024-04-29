@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blanco_negro">
+        <item>Blanco</item>
+        <item>Negro</item>
+    </string-array>
+    <string-array name="colors">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Cian</item>
+        <item>Magenta</item>
+        <item>Verde</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="material_calendar_day_abbreviations_array">
+        <item>@string/material_calendar_sunday</item>
+        <item>@string/material_calendar_monday</item>
+        <item>@string/material_calendar_tuesday</item>
+        <item>@string/material_calendar_wednesday</item>
+        <item>@string/material_calendar_thursday</item>
+        <item>@string/material_calendar_friday</item>
+        <item>@string/material_calendar_saturday</item>
+    </string-array>
+    <string-array name="material_calendar_months_array">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string-array name="ojo_selec">
+        <item>Izquierdo</item>
+        <item>Derecho</item>
+    </string-array>
+</resources>

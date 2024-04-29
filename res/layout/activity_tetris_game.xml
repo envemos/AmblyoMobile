@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:orientation="horizontal" android:id="@id/linearLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/LayoutBannerSuperior">
+            <TextView android:id="@id/ScoreView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/score" android:layout_weight="1.0" />
+            <TextView android:id="@id/LevelView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/level" android:layout_weight="1.0" />
+            <TextView android:id="@id/TimeView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/time" android:layout_weight="1.0" />
+        </LinearLayout>
+        <soft.evm.amblyopiamobilegames.juegos.tetris.game.TETRISView android:id="@id/TetrisView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

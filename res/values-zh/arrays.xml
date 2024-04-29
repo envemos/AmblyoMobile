@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blanco_negro">
+        <item>白</item>
+        <item>黑</item>
+    </string-array>
+    <string-array name="colors">
+        <item>红</item>
+        <item>蓝</item>
+        <item>黄</item>
+        <item>青色</item>
+        <item>品红</item>
+        <item>绿</item>
+        <item>个性化</item>
+    </string-array>
+    <string-array name="ojo_selec">
+        <item>左</item>
+        <item>权</item>
+    </string-array>
+</resources>

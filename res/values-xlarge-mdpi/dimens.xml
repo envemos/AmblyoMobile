@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ActividadButtonText">30.0sp</dimen>
+    <dimen name="ActividadFontText">45.0sp</dimen>
+    <dimen name="ActividadTitleFontText">65.0sp</dimen>
+    <dimen name="BotonJuegoDimen">330.0dip</dimen>
+    <dimen name="BotonJuegoMargin">4.0dip</dimen>
+    <dimen name="BotonJuegoText">40.0sp</dimen>
+    <dimen name="ButtonPlayDimen">70.0sp</dimen>
+    <dimen name="ConfigButtonDimen">100.0dip</dimen>
+    <dimen name="ConfigFontText">80.0sp</dimen>
+    <dimen name="GamesTitle">100.0sp</dimen>
+    <dimen name="GamesTitleGame">120.0sp</dimen>
+    <dimen name="MainTitle">110.0sp</dimen>
+    <dimen name="ReglasText">40.0sp</dimen>
+    <dimen name="ReglasTitle">100.0sp</dimen>
+    <dimen name="SesionButtonText">30.0sp</dimen>
+    <dimen name="SesionFontText">30.0sp</dimen>
+    <dimen name="SesionTitleFontText">80.0sp</dimen>
+    <dimen name="SettingsCheckBox">40.0sp</dimen>
+    <dimen name="SettingsFontText">50.0sp</dimen>
+    <dimen name="Table_font_size_medium">40.0sp</dimen>
+    <dimen name="Table_font_size_small">30.0sp</dimen>
+    <dimen name="Table_font_size_verysmall">30.0sp</dimen>
+    <dimen name="WelcomeDimen">30.0sp</dimen>
+</resources>

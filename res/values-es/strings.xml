@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cuenta">Cuenta</string>
+    <string name="FAQ">Preguntas más frecuentes</string>
+    <string name="LEVEL_">NIVEL:</string>
+    <string name="PP"><u>Política de Privacidad</u></string>
+    <string name="TyC"><u>Términos y Condiciones.</u></string>
+    <string name="TyC_content"><b>TÉRMINOS Y CONDICIONES</b>"
+
+Al usar el servicio está aceptando los términos y condiciones. Por favor, léalo cuidadosamente antes de usar AmblyoMobile. En su responsabilidad recae el estar de acuerdo o no con éstos términos. 
+Estos términos son aplicables a todos los visitantes y usuarios de la aplicación sin excepción. Por ello, si no está de acuerdo con los términos, no use el.
+ 
+La aplicación AmblyoMobile titularidad de Envemos Software, aplica todos los términos y condiciones aquí expuestos, y se reserva el derecho de cambiar los términos de la presente Política de Términos y Condiciones en cualquier momento.
+ 
+NO SE ENCUENTRA ACTUALMENTE RESPALDADO POR NINGUNA AUTORIDAD MÉDICA. USTED DEBE SER CONSCIENTE DE QUE NO ESTÁ USANDO UN SERVICIO MÉDICO. SOLO EN USTED RECÁE LA RESPONSABILIDAD Y CUIDADO DE SU SALUD. ANTES DE USAR EL SERVICIO, CONSULTE CON UN PROFESIONAL SI LO VE NECESARIO. NO SE HACE RESPONSABLE DE NINGÚN DAÑO O PERJUICIO QUE PUEDA OCASIONAR EL USO DE ÉSTA. SÓLO EN EL USUARIO RECAE LA RESPONSABILIDAD SOBRE CÓMO Y DE QUÉ MANERA VA A USARLO. SI USTED SUFRE CUALQUIER PROBLEMA GRAVE DE SALUD DEBE LLAMAR INMEDIATAMENTE A LOS SERVICIOS DE EMERGENCIA O ACUDIR A SU CENTRO DE SALUD CORRESPONDIENTE. SI USTED SUFRE UN PROBLEMA OCULAR O DE VISÓN, ANTE TODO DEBE ACUDIR A UN OFTALMÓLOGO, OCULISTA O OPTOMETRISTA PROFESIONAL Y SEGUIR SUS INDICACIONES.
+ 
+Ésta aplicación está enfocada a un tratamiento alternativo de la ambliopía mediante juegos con el uso de gafas anaglifo. Sin embargo, usted no necesita las gafas anaglifo si lo único que usted quiere es jugar a los juegos. Por lo tanto, cualquier persona puede jugar sin gafas anaglifo por mera diversión sin ningún problema, tengan o no tengan problemas visuales.
+ 
+En el caso de jugar con las gáfas anaglifo SÓLAMENTE lo podrán hacer las personas sin problemas visuales o personas con ambliopía funcional, resultado de anisometropía (importante diferencia en cuanto a agudeza visual entre ambos ojos) o estrabismo ya corregido.
+ 
+En cambio, las personas que sufren estrabismo no corregido pueden enfrentarse a desarrollar un problema de visión doble (diplopía). En éste caso, NO juegue con gafas anaglifo mientras su estrabismo no esté corregido.
+ 
+Lo volvemos a recalcar. La terapia visual NO SIRVE PARA CURAR EL ESTRABISMO. Si sufre estrabismo NO USE nuestra terapia. Primero debe corregir su estrabismo.
+ 
+Si el usuario de la aplicación es menor de edad, obligatoriamente debe de estar bajo la supervisión de un adulto o tutor responsable de su salud y cuidado. En él recae la responsabilidad de TODO en cuánto haga el menor en éste espacio, incluidos todos los daños y perjuicios que le pudiera ocasionar. En caso contrario, el titular se hace además responsable del uso no supervisado por parte del menor, aún cuando éste desconociese la existencia mísma de ésta página.
+ 
+Los juegos son aptos para todos los públicos en cuanto a jugabilidad y contenido, y AmblyoMobile se hace responsable de que sea así. Si el usuario considera que no se cumple esta normativa, tiene el derecho de ponerse en contacto, a través del correo de contacto, comunicando la incidencia.
+ 
+Ante cualquier duda, cuestión o problema. Primero léase el apartado Preguntas más frecuentes. Si ésta no ha sido resuelta escriba al correo de contacto.
+ 
+El correo de contacto es envemos@gmail.com.
+ "</string>
+    <string name="_privacidad">Privacidad</string>
+    <string name="_score">Puntuación:</string>
+    <string name="a_ans0">El ojo vago o ambliopía, es el motivo más frecuente de pérdida de visión entre los niños y jóvenes en los países desarrollados y afecta, aproximadamente, al 3% de la población. Ocurre como resultado de un procesamiento cerebral inadecuado, porque uno de los ojos no se comunica bien con el cerebro (puede ser por múltiples causas como estrabismo, diferencias de graducación entre ambos ojos, anisometropía, aniseiconía, cataratas congénitas) no alcanzando la agudeza visual óptima, ni usando la mejor corrección óptica. Lo que provoca que el ojo más débil sea suprimido por el ojo más fuerte. Las personas con ojo vago no tienen una percepcón desarrollada de la profundidad. Es muy importante corregir este defecto visual durante la infancia (antes de los 7 u 8 años), ya que si se deja pasar, el paciente puede llegar a perder completamente la visión del ojo que no utiliza.</string>
+    <string name="a_ans1">"El tratamiento para la ambliopía es forzar a usar el ojo perezoso. La más popular es que el niño use el parche en el ojo 'bueno' por varias horas todos los días por unas semanas o meses. Una vez superada la infancia, ya no hay nada que hacer por falta de plasticidad cerebral.
+Sin embargo, se ha descubierto que el juego es efectivo en el tratamiento de la ambliopía en adultos, también conocida como 'ojo vago', de acuerdo con nuevas investigaciones.
+La información del juego es compartida por ambos ojos, obligándolos a cooperar.
+Al hacer que ambos ojos cooperen, el cerebro ambliópico puede volver a aprender como resultado de un aumento en el nivel de plasticidad en el cerebro. Los pacientes que jugaron con ambos ojos experimentaron una mejora significativa en su visión del ojo más débil después de solo dos semanas."</string>
+    <string name="a_ans2">"Estos juegos pueden ayudarte. Con las configuraciones adecuadas, las aplicaciones pueden obligar al cerebro a utilizar ambos ojos simultáneamente para enseñarle al cerebro el procesamiento de imagen adecuado. Cada parte de la imagen es filtrado únicamente por uno de los dos ojos y esto es conseguido mediante un filtrado de colores al ponernos unas gafas anaglifo.Siempre asegúrese de que solo uno de los ojos pueda ver el color izquierdo o el correcto.
+Jugar el juego requiere que se envíe información a ambos ojos para que funcionen de manera cooperativa."</string>
+    <string name="a_ans3">Si sufre estrabismo entonces NO puede usar éste tratamiento porque podría desarrollar un problema de visión doble (diplopía). Sin embargo, cualquier persona puede jugar a los juegos sin gafas anaglifo simplemente por pura diversión. Toda la información la encontrará en los \"términos y condidiones\".</string>
+    <string name="a_ans4">Sí, se ha descubierto que estos juegos son un ejercicio efectivo incluso para adultos porque se basan en el trabajo en equipo de los ojos y obligan a ambos a trabajar juntos. De hecho está diseñado para adultos que sufren de ambliopía. Porque la medicina tradicional solo hace un tratamiento precoz hasta los 8 años con el uso del parche, y después de esa edad se considera imposible o muy complicado. Este es un método alternativo para la cura de la ambliopía para los adultos que se sienten animados a experimentar con ella.</string>
+    <string name="a_ans5">No lo está. Es una terapia alternativa que no está respaldada por un profesional pero que ofrece buenos resultados. Ante todo debe acudir a un profesional y seguir sus indicaciones, no sustituimos la labor de nadie. Todo ello está estipulado en los \"términos y condidiones\".</string>
+    <string name="a_ans6">Si, por supuesto. Los juegos son aptos para todos los públicos en cuanto a jugabilidad y contenido. Si es un menor de edad debe estar bajo la supervisión de un adulto. Todo ello está estipulado en los \"términos y condidiones\".</string>
+    <string name="a_faq0">¿Qué es el ojo vago o ambliopía?</string>
+    <string name="a_faq1">Tratamiento</string>
+    <string name="a_faq2">Filtra la imagen con los colores correctos</string>
+    <string name="a_faq3">¿Qué pasa si sufro estrabismo?</string>
+    <string name="a_faq4">¿Los juegos también son beneficiosos para los adultos?</string>
+    <string name="a_faq5">¿Está respaldado por una autoridad médica?</string>
+    <string name="a_faq6">¿Los juegos están orientados a los menores de edad?</string>
+    <string name="abc_action_bar_home_description">Ir a inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Suprimir</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Ocultar</string>
+    <string name="about">Acerca de</string>
+    <string name="about_contact_us">Contáctenos</string>
+    <string name="about_facebook">Síganos en Facebook</string>
+    <string name="about_github">Haga una copia en GitHub</string>
+    <string name="about_instagram">Síganos en Instagram</string>
+    <string name="about_play_store">Puntúanos en Play Store</string>
+    <string name="about_twitter">Síganos en Twitter</string>
+    <string name="about_website">Visite nuestro sitio web</string>
+    <string name="about_youtube">Mire nuestros vídeos en Youtube</string>
+    <string name="acepto">Acepto</string>
+    <string name="activar_sonido">Activar sonido</string>
+    <string name="amblyo">AMBLYO</string>
+    <string name="amblyom">https://https://amblyomobile.app/es/cura-tu-ambliopia-jugando/</string>
+    <string name="amblyopia">Amblyopia</string>
+    <string name="app_name">Amblyo Mobile</string>
+    <string name="autoincrementar_velocidad">Autoincrementar velocidad</string>
+    <string name="aviso">Aviso</string>
+    <string name="aviso_actividad">Registro de tu actividad. Estadísticas generales y calendario de el historial de partidas. Es necesario iniciar sesión ya que los datos van vinculados a las partidas subidas a la nube desde la cuentra.</string>
+    <string name="aviso_alarma">Programa el tiempo diario (en minutos) que quieres jugar cada día. El programa te avisará una vez hayas completado el tiempo. Se reinicia el contador cada día.</string>
+    <string name="aviso_configuracion">Menú de configuración. Configura los colores, el lado del ojo vago, el color de fondo y el sonido.</string>
+    <string name="aviso_estrabismo">"Han sido varias las personas que nos han preguntado si ésta aplicación puede servir para tratar el estrabismo. Debido a vuestra preocupación (y nuestra) sobre las dudas que concierne éste problema, si sufre estrabismo, por favor lea ésto antes de usar la aplicación. 
+
+Ésta aplicación está pensada para tratar levemente la ambliopía, es decir, son ejercicios que permiten seguir ejercitando el ojo vago en adultos, pudiendo corregir levemente el problema. Pero partimos de que tenemos un ojo sano y un ojo vago. Al tratarse de un problema de estrabismo (desencadenando en muchos casos un problema de ambliopía por la perdida de visión en uno de los dos ojos), la desviación de los ojos es demasiado pronunciada y en éste caso puede ser perjudicial. Debido a que ésta aplicación forma parte de una terapia experimental, no podemos ni tenemos el derecho de poder recomendárselo a personas con estrabismo si no podemos garantizar al 100% ningún efecto adverso. 
+
+En el caso de que sufra un estrabismo muy muy leve podría valorar por usted mismo probándola un par de semanas. Pero por favor, consulte antes a un profesional de la óptica para un mejor asesoramiento. 
+
+Si en un futuro sabemos algo más al respecto, le mantendremos informado. 
+
+Un cordial saludo."</string>
+    <string name="aviso_informacion">Todo sobre la aplicación. Guía online y contacto.</string>
+    <string name="aviso_recordatorio">Elige los días de la semana que quieres que la aplicación te notifique para no olvidarte de tu entrenamiento.</string>
+    <string name="aviso_sesion">Menú de sesión. Inicia sesión desde aquí y actualiza tu información de perfil. Así podrás guardar tus partidas en la nube y sincronizarlas desde cualquier dispositivo a través de la misma cuenta.</string>
+    <string name="b_ans0">"Primero vaya al icono de la tuerca del menú principal o del menú de juego. Coja las gafas de colores que vayas a usar. Póngase las gafas y selecciona el color que le corresponde a cada ojo. Puedes elegir entre seis colores predeterminados o personalizar el tuyo si lo deseas en la opción 'Personalizado'. Posteriormente debes seleccionar el lado donde se encuentra tu ojo vago (Derecho o Izquierdo) en la selección del ojo vago. Por último, tienes la opción de activar o desactivar el sonido en los juegos. Siéntete libre de hacer todas las configuraciones que quieras. Incluso cambiar el lado del 'Ojo vago' si lo deseas. Pulse en el icono del gamepad para ir al menú de juegos y seleccione el juego que desée y empiece a jugar."</string>
+    <string name="b_ans1">El juego funciona con cualquier tipo de gafas 3D anaglifo.</string>
+    <string name="b_ans2">"Puedes cambiar el lado del 'Ojo-vago' si lo deseas. La configuración del 'ojo vago' está diseñado para que con el ojo vago veas el objeto en cuestión que consideramos como 'centro de atención' y con el ojo sano el resto de la imagen. Por ejemplo, en el Snake el ojo vago verá la manzana la cual centramos nuestra atención. En el tetris la figura que estamos moviendo. Pero puedes hacer la prueba después de jugar unas dos semanas para ver que tal te va."</string>
+    <string name="b_ans3">Debe usar un anáglifo 3D (si tiene anteojos recetados, entonces debe usar anteojos 3D sobre él).</string>
+    <string name="b_ans4">El tiempo diario recomendado puede oscilar desde un mínimo de 5–10 minutos hasta un máximo de 10–20 minutos cada día. Puedes dividir eso en 2 o más sesiones de 5–10 minutos si te sientes más cómodo. Lo más importante es poder concentrarse en el margen de tiempo mientras haces ejercicio, de modo que si te cansas descansa un poco y continúa más tarde o, a veces, puedes omitir un día para darle a tu cerebro el tiempo suficiente para adaptar las nuevas entradas.</string>
+    <string name="b_ans5">Al principio recomiendo entre 10 y 20 minutos por día durante dos semanas para evaluar la efectividad del tratamiento. Posteriormente, si te convence, puedes aumentar el tiempo diario si notas mejorías.</string>
+    <string name="b_ans6">"Si tiene problemas para configurar los colores después de haber leído las instrucciones, es probable que tenga unas gafas 3D de bajo contraste. Unos lentes de contraste más altos (más oscuros) son más fáciles de configurar para que los colores sean invisibles, con gafas de bajo contraste debe elegir un color muy brillante para lograr eso. Esta es la razón por la cual un alto contraste o lentes más oscuros se ajusta mejor al juego. También puedes probar a personalizar los colores en la selección de colores en la configuración la opción 'Personalizado'. Si aun así no funciona, lo recomendable sería usar otras gafas."</string>
+    <string name="b_ans7">Si tiene alguna duda, déjenos una reseña en la página de la tienda de la Play Store comentando su inquietud. Antes disponíamos de un correo de contacto, pero hemos visto que la mayoría de ustedes han preferido comunicarlo a través de las reseñas de la página de la tienda de la Play Store. Teniendo en cuenta además de que las preguntas y respuestas de anteriores reseñas le pueden servir, hemos decidido que el contacto se hará ahora de ésta manera. Puede acceder directamente pulsando en el icono flotante del bocadillo de texto. Sea lo más claro y conciso.</string>
+    <string name="b_faq0">¿Por donde empiezo?</string>
+    <string name="b_faq1">¿Qué tipo de gafas 3d puedo usar para jugar?</string>
+    <string name="b_faq2">¿Puedo cambiar el filtro de los colores de lado si lo prefiero?</string>
+    <string name="b_faq3">Tengo gafas graduadas normales, ¿qué debo hacer?</string>
+    <string name="b_faq4">¿Cuánto tiempo debería jugar al juego?</string>
+    <string name="b_faq5">¿Cuánto tiempo debería jugar para ver resultados?</string>
+    <string name="b_faq6">Mis gafas no llegan a filtrar totalmente el en cada ojo</string>
+    <string name="b_faq7">He encontrado un error u otra duda no resuelta; o una idea para mejorar la experiencia</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
+    <string name="breakeR">Tenemos que romper todos los bloques del panel con la bola, que debemos golpear con la plataforma móvil. Puedes mover la plataforma hacia la derecha o hacia la izquierda, manteniendo pulsando el lado correspondiente de la pantalla. La bola está en continuo movimiento. Al chocar con la plataforma móvil o con un bloque, la bola rebota. Al chocar con un bloque, éste desaparece y ganamos puntos. Al desaparecer todos los bloques, subimos de nivel y ganamos una vida. A mayor nivel, mayor puntuación y mayor velocidad de la bola. Cada vez que la bola rebote en la parte inferior del panel, perdemos una vida. Cuando perdamos todas las vidas, el juego finaliza. Pudes configurar el nivel inicial en el menú de configuración.</string>
+    <string name="breaker">Breaker</string>
+    <string name="buy">SIN LÍMITES :)</string>
+    <string name="c_ans0">Con una cuenta registrada tendrás un perfil personalizado y acceso a todo tu historial de partidas desde cualquier dispositivo que accedas con tu cuenta. Asimismo tendrás acceso a tus mejores marcas y ver tu progreso, así cómo poder compartir con la comunidad las mejores marcas. ¡Así nos animamos todos un poco más!.</string>
+    <string name="c_ans1">En el icono de la persona del menú principal podrá editar su información de perfil.</string>
+    <string name="c_ans2">En el icono del reloj. Dentro verás varias estadísticas generales. Puedes pulsar en el botón Mi historial para ver todo tu historial de partidas.</string>
+    <string name="c_ans3">Pulse el botón de off del menú principal para cerrar sesión.</string>
+    <string name="c_ans4">Por supuesto que si. En cualquier momento puedes solicitar la anulación de la cuenta.</string>
+    <string name="c_faq0">¿Porqué necesitan mi cuenta?</string>
+    <string name="c_faq1">¿Como puedo cambiar mis datos de perfil?</string>
+    <string name="c_faq2">¿Cómo puedo ver mi actividad?</string>
+    <string name="c_faq3">¿Cómo cerrar sesión?</string>
+    <string name="c_faq4">¿Puedo borrar mi cuenta en cualquier momento?</string>
+    <string name="camposactualizados">Campos actualizados</string>
+    <string name="cargando">Cargando...</string>
+    <string name="cerrar_sesion">¿Cerrar sesión?</string>
+    <string name="character_counter_content_description">Caracteres introducidos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres superado (%1$d de %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
+    <string name="code_breaker">Code Breaker</string>
+    <string name="color_de_fondo">Color de fondo</string>
+    <string name="comidos_">Comidos:</string>
+    <string name="common_google_play_services_enable_button">Habilitar</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Descargar Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidad Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Servicios de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">No es posible ejecutar la aplicación %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s no funcionará hasta que no actualices Servicios de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualiza Servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve.</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="comprar_gafas">Comprar gafas</string>
+    <string name="comprueba">Comprueba si tu mejor puntuación aparece en el ranking o no</string>
+    <string name="conect">Conecta con nosotros</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="copyright">Copyright © %1$d Envemos</string>
+    <string name="cuenta">Cuenta:</string>
+    <string name="daily_time_instruction">Puedes cronometrar tus entrenamientos desde la aplicación estableciendo un límite de tiempo diario para que la aplicación te avise una vez lo hayas rebasado. El contador se reinicia cada día. Así no tendrás que cronometrarte tu mismo tu entrenamiento diario, ¡Lo hacemos por ti!. Recomendamos una rutina de entre 5–20 minutos diarios unas 3–4 veces por semana.</string>
+    <string name="default_score">0 0</string>
+    <string name="dialog_text">"Has superado los 10 minutos diarios de la versión gratuita. Puedes ver un vídeo antes o ¡seguir jugando SIN LÍMITES con los mejores juegos para la ambliopía!
+"<strike>49,99</strike>"
+"<b>19,99</b></string>
+    <string name="dialog_text2">"Has superado los 10 minutos diarios de la versión gratuita. Puedes ver un vídeo antes o ¡seguir jugando SIN LÍMITES con los mejores juegos para la ambliopía!
+"<strike>49,99</strike>"
+"<b>9,99</b></string>
+    <string name="dialog_text3">"Has superado los 10 minutos diarios de la versión gratuita. Puedes ver un vídeo antes o ¡seguir jugando SIN LÍMITES con los mejores juegos para la ambliopía!
+"<strike>49,99</strike>"
+"<b>4,99</b></string>
+    <string name="dialog_text4">"Has superado los 10 minutos diarios de la versión gratuita. Puedes ver un vídeo antes o ¡seguir jugando SIN LÍMITES con los mejores juegos para la ambliopía!
+"<strike>49,99</strike>"
+"<b>2,49</b></string>
+    <string name="dialog_title">Has superado el límite de tiempo</string>
+    <string name="dias">días</string>
+    <string name="dificultad">dificultad</string>
+    <string name="don_t_show_this_message_again">No mostrar este mensaje de nuevo</string>
+    <string name="días_jugados">Días jugados:</string>
+    <string name="email_username">Email/Username</string>
+    <string name="emailist1">Autorización de los mensajes de marketing</string>
+    <string name="emailist2">Permítenos enviarte mensajes motivadores e información interesante sobre tu salud ocular, así cómo todas las novedades relacionadas con las funciones de nuestras apps</string>
+    <string name="emailist3">Marketing en base a tus actividades</string>
+    <string name="emailist4">Tu salud visual es nuestra prioridad. Si nos das autorización, la publicidad que te mostraremos y te enviemos se basará en tu estilo de vida y las preferencias que muestres en otras plataformas. (Puede que la modificación tarde un timepo en tener efecto.)</string>
+    <string name="enhorabuena_finalizado">¡Enhorabuena! Tu entrenamiento de diario ha finalizado. Vuelve mañana o sigue jugando por diversion :)</string>
+    <string name="enjoy">¿Disfrutando de Amblyopia Mobile Games?</string>
+    <string name="envemos">https://envemos.com/</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_invalid_email">Esta dirección de correo electrónico no es válida</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="fecha">Fecha</string>
+    <string name="fechaNacimiento">Nacimiento:</string>
+    <string name="female">Mujer</string>
+    <string name="flappy">Flappy</string>
+    <string name="flappyR">Intenta sobrevivir el mayor tiempo posible atravesando la bola de color por los obstáculos, sin chocar ni salirse de la pantalla. La bola se irá desplazando cada vez más deprisa. La bola descenderá automáticamente por la gravedad. Debes saltar para elevar la bola. Pulsa la pantalla para saltar.</string>
+    <string name="games"><u>JUEGOS</u></string>
+    <string name="genero">Género:</string>
+    <string name="givingus">¿Te importaría darnos algunos comentarios?</string>
+    <string name="guardar">Guardar</string>
+    <string name="guardar_cambios">Guardar cambios</string>
+    <string name="guia">Guía de Amblyo Mobile</string>
+    <string name="has_comido">Has comido</string>
+    <string name="hora_de_jugar">¡Es hora de jugar!</string>
+    <string name="howabout">¿Qué tal una calificación en la App Store, entonces?</string>
+    <string name="hoy">hoy</string>
+    <string name="icon_content_description">Icono del cuadro de diálogo</string>
+    <string name="imposible">IMPOSIBLE</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="instrucciones">Instrucciones de uso</string>
+    <string name="item_view_role_description">Pestaña</string>
+    <string name="juego">Juego</string>
+    <string name="jugados">Partidas jugadas:</string>
+    <string name="jugar">Jugar</string>
+    <string name="level">Nivel:</string>
+    <string name="level_">Nivel:</string>
+    <string name="levels_">Niveles:</string>
+    <string name="licenciasSoftLibr"><u>Licencias Software Libre</u></string>
+    <string name="lineas_">Líneas:</string>
+    <string name="lives_">Vidas:</string>
+    <string name="lose">¡Has perdido! Tu puntuación fue:</string>
+    <string name="m_s_informaci_n_en">Más información en:</string>
+    <string name="male">Hombre</string>
+    <string name="manzanas">manzanas</string>
+    <string name="material_calendar_friday">V</string>
+    <string name="material_calendar_monday">L</string>
+    <string name="material_calendar_negative_button">Cancelar</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">D</string>
+    <string name="material_calendar_thursday">J</string>
+    <string name="material_calendar_today_button">Hoy</string>
+    <string name="material_calendar_tuesday">M</string>
+    <string name="material_calendar_wednesday">M</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o PM</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">A.M.</string>
+    <string name="material_timepicker_clock_mode_description">Cambia al modo de reloj para escribir la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">P.M.</string>
+    <string name="material_timepicker_select_time">Seleccionar la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo de introducción de texto para escribir la hora.</string>
+    <string name="materialcolorpicker__app_name">Android Material Selector de color</string>
+    <string name="materialcolorpicker__btnSelectColor">Selecciona</string>
+    <string name="materialcolorpicker__descLib">Material Color Dialogo de Selector</string>
+    <string name="materialcolorpicker__errHex">Formato de código hexadecimal incorrecto</string>
+    <string name="materialcolorpicker__inputColor">Color:</string>
+    <string name="medio">Tiempo medio diario:</string>
+    <string name="mejores_puntuaciones">Mejores puntuaciones</string>
+    <string name="mensaje_bienvenida">Bienvenido a Amblyo Mobile, tu nueva aplicación diseñada para curar la ambliopía mientras juegas. Hemos subido una guía a la web para que puedas conocer la aplicación en detalle, entender su funcionamiento y saber cómo usarla. Te recomendamos que te leas todas las páginas para que no te quede ninguna duda. Por favor, NO use Amblyo Mobile ANTES de que todas sus dudas hayan sido solventadas. Siempre podrá contactar con nosotros si le queda alguna duda. ¡Esperemos que disfrute de la aplicación como nosotros en desarrollarla! Un abrazo ;)</string>
+    <string name="menu_exit">Salir</string>
+    <string name="menu_guardar">Guardar partida</string>
+    <string name="menu_new_game">Nueva partida</string>
+    <string name="menu_pausa">Menú Pausa</string>
+    <string name="menu_resume">Seguir</string>
+    <string name="mi_actividad">Mi Actividad</string>
+    <string name="mi_cuenta">Mi cuenta</string>
+    <string name="mi_cuenta_google">Mi cuenta de Google</string>
+    <string name="mi_historial">Mi historial</string>
+    <string name="minutos">minutos</string>
+    <string name="mobile">MOBILE</string>
+    <string name="mode_lose">Lo siento :-(</string>
+    <string name="mode_pause">Pausa</string>
+    <string name="mode_ready">Toca para jugar</string>
+    <string name="mode_win">Buen trabajo :-)</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Retirar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona una fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">El periodo no es válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera del periodo válido: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–Fecha de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un periodo</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio–Fecha de finalización</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de introducción Calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca para seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de introducción Texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca para seleccionar un año</string>
+    <string name="muros">Muros</string>
+    <string name="n_dias">nº días</string>
+    <string name="ncesita_entrenar">Tu ojo vago necesita entrenar</string>
+    <string name="necesitasemail">Necesitas una cuenta de correo electrónico</string>
+    <string name="nivel">Nivel</string>
+    <string name="nivel_">Nivel:</string>
+    <string name="no">No</string>
+    <string name="no_">Realmente no</string>
+    <string name="no__">No, gracias</string>
+    <string name="no_internet">Sin conexión a Internet. Por favor, compruebe la conexión a internet.</string>
+    <string name="no_se_guarda">No se guardará la partida</string>
+    <string name="nombre">Nombre:</string>
+    <string name="normal">NORMAL</string>
+    <string name="nota">Nota: Los colores que aparecerán en el juego no corresponderán necesariamente con los elegidos en los ajustes, sino con aquellos que junto con el color de fondo se adquiere el mayor filtrado en cada lente.</string>
+    <string name="objetivo_cumplido">¡Objetivo cumplido!</string>
+    <string name="ojo_derecho">Ojo derecho</string>
+    <string name="ojo_izquierdo">Ojo izquierdo</string>
+    <string name="ojo_vago">Ojo vago</string>
+    <string name="ok">OK</string>
+    <string name="oleadas">oleadas</string>
+    <string name="opciones">Opciones</string>
+    <string name="pacman">Pac-Man</string>
+    <string name="pacmanR">"Pacman, nuestro héroe, recorre el mapa y se come todo el          puntos Sin embargo, la vida no es fácil para nuestro pequeño héroe. A lo largo de su viaje, se enfrenta a          Fantasmas espeluznantes que tratarán de hacerle daño. ¡Evítales! En cada esquina del mapa, hay una          pellet de energía. Si Pacman come un gránulo de poder, gana temporalmente el poder de comer al enemigo.          fantasmas          CONTROLES          Arriba: Deslizar hacia arriba  nDown: Deslizar hacia abajo  nDe izquierda: Deslizar hacia la izquierda  nDerecho: Deslizar hacia la derecha  n          Pausa: mantener pantalla"</string>
+    <string name="page1">https://amblyomobile.app/es/cura-tu-ambliopia-jugando/preguntas-frecuentes-y-pagina-de-guia/</string>
+    <string name="page1_title">Página principal de la guía</string>
+    <string name="page2">https://amblyomobile.app/es/cura-tu-ambliopia-jugando/preguntas-frecuentes-y-pagina-de-guia/que-es-amblyo-mobile/</string>
+    <string name="page2_title">¿Qué es Amblyo Mobile?</string>
+    <string name="page3">https://amblyomobile.app/es/cura-tu-ambliopia-jugando/preguntas-frecuentes-y-pagina-de-guia/como-usar-amblyo-mobile/</string>
+    <string name="page3_title">¿Cómo usar Amblyo Mobile?</string>
+    <string name="page4">https://amblyomobile.app/es/cura-tu-ambliopia-jugando/preguntas-frecuentes-y-pagina-de-guia/como-configurar-los-colores-correctamente/</string>
+    <string name="page4_title">Cómo configurar correctamente los colores</string>
+    <string name="page5">https://amblyomobile.app/es/cura-tu-ambliopia-jugando/preguntas-frecuentes-y-pagina-de-guia/terminos-legales-y-politica-de-uso-de-amblyo-mobile/</string>
+    <string name="page5_title">Política de uso</string>
+    <string name="pais">País:</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="pinball">Pinball</string>
+    <string name="play_demo">¡Ver vídeo!</string>
+    <string name="pong">Pong</string>
+    <string name="pongR">El pong es una clásico que no defrauda a nadie. En ésta versión del pong, intenta anotarle al rival la mayor puntuación posible antes de que te anote 5 tantos. Simplemente desplaza el pad del jugador con el dedo y compite con tu rival.</string>
+    <string name="premium">Premium</string>
+    <string name="puntuacion">Puntuación</string>
+    <string name="puntuaciones">Mejores puntuaciones</string>
+    <string name="quieres_guardar">¿Quieres guardar la partida en la nube? Inicia sesión y consulta todo tu histoiral de partidas.</string>
+    <string name="quieres_salir">¿Quieres salir del juego?</string>
+    <string name="ranking_no">No apareces en el ranking</string>
+    <string name="ranking_si">¡Enhorabuena! Apareces en el ranking</string>
+    <string name="reanudar">Reanudar</string>
+    <string name="recordatorio">Recuerde que debe sopesar estos ejercicios con el diagnóstico y supervisión de un oculista. Recae bajo su propia responsabilidad hacer un uso adecuado de la aplicación.</string>
+    <string name="reglas">Reglas</string>
+    <string name="remind_me">Recuerdame</string>
+    <string name="remind_me_description">Te enviaremos una notificación cada día para que no se te olvide tu rutina de entrenamiento. Tú no que tendrás que acordarte, ¡lo haremos por ti!. Recomendamos una rutina de entre 5–20 minutos diarios unas 3–4 veces por semana</string>
+    <string name="reservados">, Todos los derechos reservados.</string>
+    <string name="resultados_">resultados)</string>
+    <string name="salir">Salir</string>
+    <string name="saltos_">Saltos:</string>
+    <string name="score">Puntuación:</string>
+    <string name="score_">Puntuación:</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="seguro">¿Estás seguro?</string>
+    <string name="sesi_n">Sesión</string>
+    <string name="set_reminder">Establecer recordatorio</string>
+    <string name="set_reminder_time">Establecer tiempo de recordatorio</string>
+    <string name="si">Si</string>
+    <string name="si_">Si!</string>
+    <string name="si__">Claro</string>
+    <string name="snake">Snake</string>
+    <string name="snakeR">Snake es un juego donde debes comerte el mayor número de manzanas posible. La serpiente aumenta de longitud con cada manzana que come, lo cual aumenta la dificultad. A mayor velocidad, mayor será la puntuación. Elige la velocidad en el menú de configuración. Puedes ir aumentado de velocidad a medida que pasa el tiempo si activas la autovelocidad en el menú de configuración. Puedes jugar con muros (más difícil pero más puntuación) o sin muros. Puedes activar o desactivar los muros en el menú de configuración. La serpiente muere cuando choca con el muro o consigo misma. Desplaza la serpiente deslizando los dedos por la pantalla en la dirección que desees: arriba, abajo, derecha o izquierda.</string>
+    <string name="space">Space Invaders</string>
+    <string name="spaceR">Emocionante recreación del Space Invaders donde tendremos que enfrentarnos a una gran oleada de invasores alielígenas. Desplázate por la izquierda o la derecha pulsando en las respectivas flechas que aparecerán en pantalla. Para disparar sólo tienes que pulsar en el área restante de la pantalla. Si alcanzas a un alielígena, lo eliminas. Si acabas con todos los alielígenas, subes de nivel. En cada nivel la oleada será más difícil y mayor será la puntuación obtenida. Dispones de un número limitado de vidas. Pierdes una vida, por cada bala enemiga que ha alcanzado tu nave. Si pierdes todas las vidas, se acaba el juego. Al pasar de nivel, ganas vidas. El juego también termina si las naves alielígenas llegan al final inferior de la pantalla. En los niveles iniciales dispones de una barricada para protegerte de los disparos.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tetris">Tetris</string>
+    <string name="tetrisR">Consigue puntos consiguiendo encajar las figuras geométricas que van cayendo por el tablero de tal forma que consigas rellenar completamente una fila del tablero. Entonces se vaciará una línea y conseguirás puntos. Puedes vaciar varias líneas simultáneamente, lo cual te dará más puntos. Cuando encajes una figura, automáticamente aparecerá otra en la parte superior del tablero. El juego termina cuando se desborde el tablero, es decir, hayas consumido todas las filas. A mayor nivel, mayor velocidad y mayor puntuación. Elige el nivel en el menú de configuración. Puedes ir aumentado de nivel a medida que vas rellenando filas si activas la autovelocidad en el menú de configuración. Desplaza la figura deslizando los dedos por la pantalla bien a la derecha o bien a la izquierda. Desliza hacia arriba o pulsa la pantalla para rotar la figura. Desliza hacia abajo para acelerar la caída (cuando ya estés seguro donde la quieres colocar).</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="tiempo_diario">Tiempo Diario</string>
+    <string name="time">Tiempo:</string>
+    <string name="time_">Tiempo:</string>
+    <string name="title_activity_settings">Opciones</string>
+    <string name="titulo_actividad">Actividad</string>
+    <string name="titulo_alarma">Cronómetro diario</string>
+    <string name="titulo_configuracion">Configuración</string>
+    <string name="titulo_estrabismo">Si sufres estrabismo, lee esto</string>
+    <string name="titulo_informacion">Sobre la aplicación</string>
+    <string name="titulo_recordatorio">Recordatorio semanal</string>
+    <string name="titulo_sesion">Sesión</string>
+    <string name="total">total</string>
+    <string name="total_time">Tiempo total:</string>
+    <string name="tu_puntuacion">Mejor puntuación</string>
+    <string name="ultimos">últimos</string>
+    <string name="update">Actualizar</string>
+    <string name="username">Nombre</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="velocidad_">Velocidad:</string>
+    <string name="volver_al_men">Volver al menú principal</string>
+    <string name="volver_atr_as">Volver atrás</string>
+    <string name="volver_atr_s">Volver al menú de juego</string>
+    <string name="www_amblyopiaonlinegames_com">www.amblyopiaonlinegames.com</string>
+</resources>

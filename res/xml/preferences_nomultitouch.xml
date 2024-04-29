@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Preferences">
+        <CheckBoxPreference android:enabled="true" android:title="@string/sound_pref_title" android:key="sound" android:defaultValue="true" />
+        <CheckBoxPreference android:enabled="true" android:title="@string/music_pref_title" android:key="music" android:defaultValue="true" />
+        <CheckBoxPreference android:enabled="true" android:title="@string/high_quality_pref_title" android:key="highQuality" android:summaryOn="@string/high_quality_pref_summary_on" android:summaryOff="@string/high_quality_pref_summary_off" />
+        <CheckBoxPreference android:enabled="true" android:title="@string/zoom_pref_title" android:key="zoom" android:defaultValue="true" />
+        <CheckBoxPreference android:enabled="true" android:title="@string/use_opengl_pref_title" android:key="useOpenGL" />
+        <CheckBoxPreference android:enabled="true" android:title="@string/show_fps_pref_title" android:key="showFPS" />
+    </PreferenceCategory>
+</PreferenceScreen>
